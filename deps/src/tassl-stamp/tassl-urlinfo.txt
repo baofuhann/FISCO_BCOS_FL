@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tassl-stamp/download-tassl.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tassl-stamp/verify-tassl.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tassl-stamp/extract-tassl.cmake
+source_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tassl
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src
+url(s)=https://github.com/FISCO-BCOS/TASSL/archive/5d2100b378063bc9ffce0bb703784ab6053848ce.tar.gz;https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/FISCO-BCOS/FISCO-BCOS/deps/tassl_1.0.2-5d2100.tar.gz
+hash=SHA256=aab236c3da193192c6754dc86130bb5bb307aa2e4865fc01797a1c868c9b1971
+      no_extract=
+

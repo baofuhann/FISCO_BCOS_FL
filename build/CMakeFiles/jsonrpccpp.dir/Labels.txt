@@ -1,0 +1,13 @@
+# Target labels
+ jsonrpccpp
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/jsonrpccpp
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/jsonrpccpp.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/jsonrpccpp-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/jsonrpccpp-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/jsonrpccpp-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/jsonrpccpp-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/jsonrpccpp-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/jsonrpccpp-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/jsonrpccpp-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/jsonrpccpp-update.rule

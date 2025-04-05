@@ -1,0 +1,5 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libsecp256k1.a
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/secp256k1_ecdh.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/secp256k1_recovery.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/secp256k1_sha256.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/secp256k1.h

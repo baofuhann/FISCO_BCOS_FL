@@ -1,0 +1,1317 @@
+CMake Deprecation Warning at CMakeLists.txt:5 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+CMake Warning (dev) at /usr/local/share/cmake/Modules/GNUInstallDirs.cmake:253 (message):
+  Unable to determine default CMAKE_INSTALL_LIBDIR directory because no
+  target architecture is known.  Please enable at least one language before
+  including GNUInstallDirs.
+Call Stack (most recent call first):
+  CMakeLists.txt:21 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_set_config_location.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:13 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:34 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_private_data.cmake:12 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:35 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_initialize.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/Hunter:36 (include)
+  cmake/cable/HunterGate.cmake:525 (include)
+  cmake/Hunter/init.cmake:9 (HunterGate)
+  CMakeLists.txt:27 (include)
+
+
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_set_config_location.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:13 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_set_config_location.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:13 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_create_cache_meta_directory.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_create_cache_meta_directory.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_create_cache_meta_directory.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_create_cache_meta_directory.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/ethash/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  CMakeLists.txt:41 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_set_config_location.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:13 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_config_sha1.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:9 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_toolchain_sha1.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:10 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_set_config_location.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_apply_gate_settings.cmake:13 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_calculate_self.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_finalize.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_cache_run.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_create_cache_meta_directory.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_create_cache_meta_directory.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_load_from_cache.cmake:6 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:22 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_create_cache_meta_directory.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_create_cache_meta_directory.cmake:5 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:4 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Deprecation Warning at /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_lock_directory.cmake:4 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_make_directory.cmake:7 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_save_to_cache.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_download.cmake:26 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/projects/intx/hunter.cmake:8 (include)
+  /Users/hanallen/.hunter/_Base/Download/Hunter/unknown/9bfa957/Unpacked/cmake/modules/hunter_add_package.cmake:62 (include)
+  lib/evmone/CMakeLists.txt:7 (hunter_add_package)
+
+
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    HUNTER_USE_CACHE_SERVERS
+
+

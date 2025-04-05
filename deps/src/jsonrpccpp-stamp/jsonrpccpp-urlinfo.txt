@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/download-jsonrpccpp.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/verify-jsonrpccpp.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-stamp/extract-jsonrpccpp.cmake
+source_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src
+url(s)=https://github.com/cinemast/libjson-rpc-cpp/archive/v0.7.0.tar.gz;https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/FISCO-BCOS/FISCO-BCOS/deps/jsonrcpcpp-0.7.0.tar.gz;https://raw.githubusercontent.com/FISCO-BCOS/LargeFiles/master/libs/jsonrcpcpp-0.7.0.tar.gz
+hash=SHA256=669c2259909f11a8c196923a910f9a16a8225ecc14e6c30e2bcb712bab9097eb
+      no_extract=
+

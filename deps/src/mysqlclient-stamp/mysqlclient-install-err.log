@@ -1,0 +1,4 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libmysqlclient.a(longlong2str.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libmysqlclient.a(thr_cond.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libmysqlclient.a(thr_mutex.c.o) has no symbols

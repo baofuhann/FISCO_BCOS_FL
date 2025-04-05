@@ -1,0 +1,13 @@
+# Target labels
+ libff
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libff
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libff.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libff-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/libff-stamp/libff-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/libff-stamp/libff-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/libff-stamp/libff-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/libff-stamp/libff-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/libff-stamp/libff-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/libff-stamp/libff-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/libff-stamp/libff-update.rule

@@ -1,0 +1,13 @@
+# Target labels
+ GroupSigLib
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/GroupSigLib
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/GroupSigLib.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/GroupSigLib-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/GroupSigLib-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/GroupSigLib-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/GroupSigLib-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/GroupSigLib-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/GroupSigLib-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/GroupSigLib-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/GroupSigLib-update.rule

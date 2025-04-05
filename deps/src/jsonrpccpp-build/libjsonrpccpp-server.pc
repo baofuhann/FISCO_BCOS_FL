@@ -1,0 +1,5 @@
+Name: libjsonrpccpp-server
+Description: A C++ server implementation of json-rpc.
+Version: 0.7.0
+Libs: -L/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/ -ljsoncpp -ljsonrpccpp-common -ljsonrpccpp-server -lmicrohttpd
+Cflags: -I/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include

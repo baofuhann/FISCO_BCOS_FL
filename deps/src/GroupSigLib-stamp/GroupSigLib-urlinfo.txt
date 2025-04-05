@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/download-GroupSigLib.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/verify-GroupSigLib.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib-stamp/extract-GroupSigLib.cmake
+source_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src
+url(s)=https://github.com/FISCO-BCOS/group-signature-lib/archive/8c30f008e1399afc5be8877231f92a5d90822ad5.tar.gz;https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/FISCO-BCOS/FISCO-BCOS/deps/group_sig_lib-8c30f008.tar.gz
+hash=SHA256=ea4cecd6c4cf300d661d006fa870151e84990fe757446738054c70046f0524d5
+      no_extract=
+

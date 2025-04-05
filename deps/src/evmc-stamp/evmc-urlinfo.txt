@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/download-evmc.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/verify-evmc.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/extract-evmc.cmake
+source_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src
+url(s)=https://github.com/FISCO-BCOS/evmc/archive/4ce1c3b35346db162443a6975ac8801910533138.tar.gz;https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/FISCO-BCOS/FISCO-BCOS/deps/evmc-4ce1c3b3.tar.gz
+hash=SHA256=bc75110885ac5524dcbe8af0d3670add5b414697d8154ec2e885b1d6806f9332
+      no_extract=
+

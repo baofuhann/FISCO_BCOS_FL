@@ -1,0 +1,13 @@
+# Target labels
+ libzdb
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libzdb
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libzdb.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libzdb-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libzdb-stamp/libzdb-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libzdb-stamp/libzdb-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libzdb-stamp/libzdb-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libzdb-stamp/libzdb-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libzdb-stamp/libzdb-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libzdb-stamp/libzdb-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libzdb-stamp/libzdb-update.rule

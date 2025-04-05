@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/leveldb"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/leveldb.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/leveldb-complete.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-build.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-configure.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-download.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-install.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-mkdir.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-patch.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"leveldb"
+		],
+		"name" : "leveldb"
+	}
+}

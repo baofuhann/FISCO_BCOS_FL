@@ -1,0 +1,13 @@
+-- verifying file...
+       file='/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb_6.29.3.tar.gz'
+-- File already exists and hash match (skip download):
+  file='/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb_6.29.3.tar.gz'
+  SHA256='724e4cba2db6668ff6a21ecabcce0782cd0c8e386796e7e9a14a8260e0600abd'
+-- extracting...
+     src='/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb_6.29.3.tar.gz'
+     dst='/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done

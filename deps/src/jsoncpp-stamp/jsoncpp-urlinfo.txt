@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsoncpp-stamp/download-jsoncpp.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsoncpp-stamp/verify-jsoncpp.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsoncpp-stamp/extract-jsoncpp.cmake
+source_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsoncpp
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src
+url(s)=https://github.com/open-source-parsers/jsoncpp/archive/1.7.7.tar.gz;https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/FISCO-BCOS/FISCO-BCOS/deps/jsoncpp-1.7.7.tar.gz;https://raw.githubusercontent.com/FISCO-BCOS/LargeFiles/master/libs/jsoncpp-1.7.7.tar.gz
+hash=SHA256=087640ebcf7fbcfe8e2717a0b9528fff89c52fcf69fa2a18cc2b538008098f97
+      no_extract=
+

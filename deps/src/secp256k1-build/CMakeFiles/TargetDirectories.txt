@@ -1,0 +1,9 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/gen_context.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/ecmult_static_context.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/secp256k1.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/edit_cache.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/rebuild_cache.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/list_install_components.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/install.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/install/local.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/secp256k1-build/CMakeFiles/install/strip.dir

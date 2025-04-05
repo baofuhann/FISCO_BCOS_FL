@@ -1,0 +1,361 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+In file included from db/builder.cc:7:
+In file included from ./db/filename.h:14:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/db_impl.cc:5:
+In file included from ./db/db_impl.h:10:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/db_iter.cc:5:
+In file included from ./db/db_iter.h:10:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/dbformat.cc:6:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/dumpfile.cc:6:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/filename.cc:7:
+In file included from ./db/filename.h:14:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/log_reader.cc:9:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/log_writer.cc:9:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/memtable.cc:5:
+In file included from ./db/memtable.h:10:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/repair.cc:28:
+In file included from ./db/db_impl.h:10:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/table_cache.cc:5:
+In file included from ./db/table_cache.h:12:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/version_edit.cc:5:
+In file included from ./db/version_edit.h:11:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/version_set.cc:5:
+In file included from ./db/version_set.h:21:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from db/write_batch.cc:19:
+In file included from ./db/dbformat.h:14:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from table/block.cc:13:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from table/block_builder.cc:35:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from table/filter_block.cc:8:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from table/format.cc:8:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from table/table.cc:16:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from table/table_builder.cc:15:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/arena.cc:5:
+In file included from ./util/arena.h:12:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/cache.cc:10:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/coding.cc:5:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/comparator.cc:9:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/crc32c.cc:12:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/env_posix.cc:24:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/hash.cc:6:
+In file included from ./util/coding.h:17:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/histogram.cc:7:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/logging.cc:5:
+In file included from ./util/logging.h:14:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from util/status.cc:6:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from port/port_posix.cc:5:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+In file included from port/port_posix_sse.cc:14:
+In file included from ./port/port.h:14:
+In file included from ./port/port_posix.h:47:
+./port/atomic_pointer.h:59:3: warning: 'OSMemoryBarrier' is deprecated: first deprecated in macOS 10.12 - Use std::atomic_thread_fence() from <atomic> instead [-Wdeprecated-declarations]
+   59 |   OSMemoryBarrier();
+      |   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/OSAtomicDeprecated.h:751:9: note: 'OSMemoryBarrier' has been explicitly marked deprecated here
+  751 | void    OSMemoryBarrier( void );
+      |         ^
+1 warning generated.
+ar: creating archive out-static/libleveldb.a

@@ -1,0 +1,7 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-build/CMakeFiles/mpir.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-build/CMakeFiles/edit_cache.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-build/CMakeFiles/rebuild_cache.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-build/CMakeFiles/list_install_components.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-build/CMakeFiles/install.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-build/CMakeFiles/install/local.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-build/CMakeFiles/install/strip.dir

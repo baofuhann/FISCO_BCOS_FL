@@ -1,0 +1,1 @@
+cmd='./configure;CXXFLAGS=-DHAVE_POSIX_MEMALIGN_SYMBOL=1;--enable-frame-pointers;--disable-shared;--disable-cpu-profiler;--disable-heap-profiler;--disable-heap-checker;--disable-debugalloc;--enable-minimal;--prefix=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/gperftools'

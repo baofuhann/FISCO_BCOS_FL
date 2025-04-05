@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mhd"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mhd.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mhd-complete.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-build.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-configure.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-download.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-install.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-mkdir.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-patch.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"mhd"
+		],
+		"name" : "mhd"
+	}
+}

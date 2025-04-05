@@ -1,0 +1,21 @@
+-- UNIX_DOMAIN_SOCKET_SERVER: OFF
+-- UNIX_DOMAIN_SOCKET_CLIENT: OFF
+-- TCP_SOCKET_SERVER: NO
+-- TCP_SOCKET_CLIENT: NO
+-- HTTP_SERVER: ON
+-- HTTP_CLIENT: OFF
+-- UNIXDOMAINSOCKET_SERVER: OFF
+-- UNIXDOMAINSOCKET_CLIENT: OFF
+-- COMPILE_TESTS: OFF
+-- COMPILE_STUBGEN: OFF
+-- COMPILE_EXAMPLES: OFF
+-- Jsoncpp header: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include
+-- Jsoncpp lib   : /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libjsoncpp.a
+-- Jsoncpp prefix: json
+-- Threads: 
+-- MHD header: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd/src/include
+-- MHD lib   : /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd/src/microhttpd/.libs/libmicrohttpd.a
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp-build

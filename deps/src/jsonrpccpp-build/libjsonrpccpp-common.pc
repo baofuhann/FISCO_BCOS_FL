@@ -1,0 +1,5 @@
+Name: libjsonrpccpp-common
+Description: Common libraries for libjson-rpc-cpp
+Version: 0.7.0
+Libs: -L/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/ -ljsoncpp
+Cflags: -I/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include

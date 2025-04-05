@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/download-paillier.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/verify-paillier.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/extract-paillier.cmake
+source_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src
+url(s)=https://github.com/FISCO-BCOS/paillier-lib/archive/1daf3b23b01121e8522a8b264be933f6d236fdb8.tar.gz;https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/FISCO-BCOS/FISCO-BCOS/deps/paillier-1daf3b23.tar.gz
+hash=SHA256=574c8315961ea2ba9534a739675172a0e580ca140c9b2a6fb1008aaf608ae1c9
+      no_extract=
+

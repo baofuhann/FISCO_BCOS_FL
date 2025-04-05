@@ -1,0 +1,4 @@
+[ 60%] Built target instructions
+[ 80%] Building C object lib/loader/CMakeFiles/loader.dir/loader.c.o
+[100%] Linking C static library libevmc-loader.a
+[100%] Built target loader

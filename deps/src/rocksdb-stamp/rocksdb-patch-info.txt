@@ -1,0 +1,6 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The update step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command=sed;-i;.bkp;s#-march=native#-march=x86-64 -mtune=generic -fvisibility=hidden -fvisibility-inlines-hidden -Wno-defaulted-function-deleted -Wno-shadow #g;CMakeLists.txt;COMMAND;sed;-i;.bkp;s#-Werror##g;CMakeLists.txt
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb

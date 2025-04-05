@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/CMakeFiles/pbc_sig"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/CMakeFiles/pbc_sig.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/CMakeFiles/pbc_sig-complete.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-build.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-configure.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-download.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-install.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-mkdir.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-patch.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pbc_sig"
+		],
+		"name" : "pbc_sig"
+	}
+}

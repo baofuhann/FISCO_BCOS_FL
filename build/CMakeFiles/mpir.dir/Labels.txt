@@ -1,0 +1,13 @@
+# Target labels
+ mpir
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mpir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mpir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mpir-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-stamp/mpir-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-stamp/mpir-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-stamp/mpir-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-stamp/mpir-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-stamp/mpir-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-stamp/mpir-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-stamp/mpir-update.rule

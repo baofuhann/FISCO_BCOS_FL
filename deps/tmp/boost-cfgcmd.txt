@@ -1,0 +1,1 @@
+cmd='./bootstrap.sh;COMMAND;sed;-i;.bkp;s/-fcoalesce-templates//g;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/boost/tools/build/src/tools/darwin.jam'

@@ -1,0 +1,8 @@
+[100%] Built target evmone
+Install the project...
+-- Install configuration: "Release"
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmone
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmone/evmone.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libevmone.a
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libkeccak.a

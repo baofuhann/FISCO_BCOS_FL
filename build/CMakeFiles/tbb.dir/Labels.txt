@@ -1,0 +1,13 @@
+# Target labels
+ tbb
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/tbb
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/tbb.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/tbb-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-update.rule

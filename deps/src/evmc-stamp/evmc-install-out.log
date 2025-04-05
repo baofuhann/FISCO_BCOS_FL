@@ -1,0 +1,19 @@
+[ 60%] Built target instructions
+[100%] Built target loader
+Install the project...
+-- Install configuration: "Release"
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/utils.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/mocked_host.hpp
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/loader.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/instructions.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/evmc.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/evmc.hpp
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/helpers.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/evmcTargets.cmake
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/evmcTargets-release.cmake
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/evmcConfig.cmake
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/evmcConfigVersion.cmake
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/EVMC.cmake
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libevmc-instructions.a
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libevmc-loader.a

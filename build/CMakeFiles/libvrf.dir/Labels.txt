@@ -1,0 +1,13 @@
+# Target labels
+ libvrf
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libvrf
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libvrf.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/libvrf-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/libvrf-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/libvrf-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/libvrf-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/libvrf-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/libvrf-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/libvrf-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/libvrf-update.rule

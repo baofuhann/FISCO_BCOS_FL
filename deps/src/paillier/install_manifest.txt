@@ -1,0 +1,7 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libpaillier.a
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/bn.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/callpaillier.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/common.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/macro.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/paillier.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/typedef.h

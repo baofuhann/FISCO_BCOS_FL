@@ -1,0 +1,1506 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/adler32.c:57:15: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   57 | uLong ZEXPORT adler32(adler, buf, len)
+      |               ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/adler32.c:128:15: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  128 | uLong ZEXPORT adler32_combine(adler1, adler2, len2)
+      |               ^
+2 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/compress.c:22:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   22 | int ZEXPORT compress2 (dest, destLen, source, sourceLen, level)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/compress.c:62:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   62 | int ZEXPORT compress (dest, destLen, source, sourceLen)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/compress.c:75:15: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   75 | uLong ZEXPORT compressBound (sourceLen)
+      |               ^
+3 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/crc32.c:219:23: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  219 | unsigned long ZEXPORT crc32(crc, buf, len)
+      |                       ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/crc32.c:262:21: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  262 | local unsigned long crc32_little(crc, buf, len)
+      |                     ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/crc32.c:302:21: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  302 | local unsigned long crc32_big(crc, buf, len)
+      |                     ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/crc32.c:342:21: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  342 | local unsigned long gf2_matrix_times(mat, vec)
+      |                     ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/crc32.c:359:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  359 | local void gf2_matrix_square(square, mat)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/crc32.c:370:15: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  370 | uLong ZEXPORT crc32_combine(crc1, crc2, len2)
+      |               ^
+6 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:204:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  204 | int ZEXPORT deflateInit_(strm, level, version, stream_size)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:216:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  216 | int ZEXPORT deflateInit2_(strm, level, method, windowBits, memLevel, strategy,
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:315:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  315 | int ZEXPORT deflateSetDictionary (strm, dictionary, dictLength)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:357:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  357 | int ZEXPORT deflateReset (strm)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:393:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  393 | int ZEXPORT deflateSetHeader (strm, head)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:404:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  404 | int ZEXPORT deflatePrime (strm, bits, value)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:416:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  416 | int ZEXPORT deflateParams(strm, level, strategy)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:454:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  454 | int ZEXPORT deflateTune(strm, good_length, max_lazy, nice_length, max_chain)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:489:15: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  489 | uLong ZEXPORT deflateBound(strm, sourceLen)
+      |               ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:518:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  518 | local void putShortMSB (s, b)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:532:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  532 | local void flush_pending(strm)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:552:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  552 | int ZEXPORT deflate (strm, flush)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:859:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  859 | int ZEXPORT deflateEnd (strm)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:894:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  894 | int ZEXPORT deflateCopy (dest, source)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:956:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  956 | local int read_buf(strm, buf, size)
+      |           ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:986:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  986 | local void lm_init (s)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:1027:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1027 | local uInt longest_match(s, cur_match)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:1175:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1175 | local uInt longest_match_fast(s, cur_match)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:1266:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1266 | local void fill_window(s)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:1390:19: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1390 | local block_state deflate_stored(s, flush)
+      |                   ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:1448:19: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1448 | local block_state deflate_fast(s, flush)
+      |                   ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/deflate.c:1554:19: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1554 | local block_state deflate_slow(s, flush)
+      |                   ^
+22 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:98:14: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   98 | local gzFile gz_open (path, mode, fd)
+      |              ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:213:16: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  213 | gzFile ZEXPORT gzopen (path, mode)
+      |                ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:224:16: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  224 | gzFile ZEXPORT gzdopen (fd, mode)
+      |                ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:239:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  239 | int ZEXPORT gzsetparams (file, level, strategy)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:266:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  266 | local int get_byte(s)
+      |           ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:293:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  293 | local void check_header(s)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:360:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  360 | local int destroy (s)
+      |           ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:399:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  399 | int ZEXPORT gzread (file, buf, len)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:508:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  508 | int ZEXPORT gzgetc(file)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:520:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  520 | int ZEXPORT gzungetc(c, file)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:545:16: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  545 | char * ZEXPORT gzgets(file, buf, len)
+      |                ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:564:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  564 | int ZEXPORT gzwrite (file, buf, len)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:683:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  683 | int ZEXPORT gzputc(file, c)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:698:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  698 | int ZEXPORT gzputs(file, s)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:710:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  710 | local int do_flush (file, flush)
+      |           ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:751:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  751 | int ZEXPORT gzflush (file, flush)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:772:17: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  772 | z_off_t ZEXPORT gzseek (file, offset, whence)
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:862:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  862 | int ZEXPORT gzrewind (file)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:886:17: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  886 | z_off_t ZEXPORT gztell (file)
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:896:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  896 | int ZEXPORT gzeof (file)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:913:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  913 | int ZEXPORT gzdirect (file)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:925:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  925 | local void putLong (file, x)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:940:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  940 | local uLong getLong (s)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:958:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  958 | int ZEXPORT gzclose (file)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:992:22: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  992 | const char * ZEXPORT gzerror (file, errnum)
+      |                      ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/gzio.c:1022:14: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1022 | void ZEXPORT gzclearerr (file)
+      |              ^
+26 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/infback.c:28:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   28 | int ZEXPORT inflateBackInit_(strm, windowBits, window, version, stream_size)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/infback.c:73:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   73 | local void fixedtables(state)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/infback.c:241:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  241 | int ZEXPORT inflateBack(strm, in, in_desc, out, out_desc)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/infback.c:614:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  614 | int ZEXPORT inflateBackEnd(strm)
+      |             ^
+4 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inffast.c:67:6: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   67 | void inflate_fast(strm, start)
+      |      ^
+1 warning generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:103:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  103 | int ZEXPORT inflateReset(strm)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:128:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  128 | int ZEXPORT inflatePrime(strm, bits, value)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:144:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  144 | int ZEXPORT inflateInit2_(strm, windowBits, version, stream_size)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:187:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  187 | int ZEXPORT inflateInit_(strm, version, stream_size)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:205:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  205 | local void fixedtables(state)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:323:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  323 | local int updatewindow(strm, out)
+      |           ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:554:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  554 | int ZEXPORT inflate(strm, flush)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:1167:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1167 | int ZEXPORT inflateEnd(strm)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:1181:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1181 | int ZEXPORT inflateSetDictionary(strm, dictionary, dictLength)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:1223:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1223 | int ZEXPORT inflateGetHeader(strm, head)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:1251:16: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1251 | local unsigned syncsearch(have, buf, len)
+      |                ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:1274:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1274 | int ZEXPORT inflateSync(strm)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:1325:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1325 | int ZEXPORT inflateSyncPoint(strm)
+      |             ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inflate.c:1335:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1335 | int ZEXPORT inflateCopy(dest, source)
+      |             ^
+14 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/inftrees.c:32:5: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   32 | int inflate_table(type, lens, codes, table, bits, work)
+      |     ^
+1 warning generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:382:6: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  382 | void _tr_init(s)
+      |      ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:411:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  411 | local void init_block(s)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:455:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  455 | local void pqdownheap(s, tree, k)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:490:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  490 | local void gen_bitlen(s, desc)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:577:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  577 | local void gen_codes (tree, max_code, bl_count)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:619:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  619 | local void build_tree(s, desc)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:707:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  707 | local void scan_tree (s, tree, max_code)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:752:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  752 | local void send_tree (s, tree, max_code)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:803:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  803 | local int build_bl_tree(s)
+      |           ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:838:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  838 | local void send_all_trees(s, lcodes, dcodes, blcodes)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:867:6: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  867 | void _tr_stored_block(s, buf, stored_len, eof)
+      |      ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:892:6: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  892 | void _tr_align(s)
+      |      ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:921:6: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  921 | void _tr_flush_block(s, buf, stored_len, eof)
+      |      ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:1022:5: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1022 | int _tr_tally (s, dist, lc)
+      |     ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:1072:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1072 | local void compress_block(s, ltree, dtree)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:1126:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1126 | local void set_data_type(s)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:1146:16: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1146 | local unsigned bi_reverse(code, len)
+      |                ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:1161:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1161 | local void bi_flush(s)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:1178:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1178 | local void bi_windup(s)
+      |            ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/trees.c:1197:12: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1197 | local void copy_block(s, buf, len, header)
+      |            ^
+20 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/uncompr.c:26:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   26 | int ZEXPORT uncompress (dest, destLen, source, sourceLen)
+      |             ^
+1 warning generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/zutil.c:133:22: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  133 | const char * ZEXPORT zError(err)
+      |                      ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/zutil.c:263:8: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  263 | voidpf zcalloc (opaque, items, size)
+      |        ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/zlib/zutil.c:273:7: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  273 | void  zcfree (opaque, ptr)
+      |       ^
+3 warnings generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/client/get_password.c:23:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/bchange.c:28:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-big5.c:30:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-bin.c:22:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-cp932.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-czech.c:65:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-euc_kr.c:29:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-eucjpms.c:30:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-gb2312.c:27:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-gbk.c:30:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-gb18030.c:23:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-latin1.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-mb.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-simple.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-sjis.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-tis620.c:52:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-uca.c:35:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-ucs2.c:21:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-ujis.c:29:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-utf8.c:21:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype-win1250ch.c:40:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/ctype.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/decimal.c:104:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/dtoa.c:40:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/int2str.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/is_prefix.c:26:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/llstr.c:29:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/longlong2str.c:42:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/my_strtoll10.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/my_vsnprintf.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/str2int.c:41:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/str_alloc.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/strcend.c:26:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/strend.c:30:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/strfill.c:28:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/strmake.c:29:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/my_stpmov.c:24:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/my_stpnmov.c:23:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/strxmov.c:35:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/strxnmov.c:40:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/xml.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/my_strchr.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/strcont.c:29:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/strappend.c:28:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libstrings.a(longlong2str.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libstrings.a(longlong2str.c.o) has no symbols
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/array.c:19:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/charset.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/hash.c:21:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_cache.c:22:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_dirname.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_fn_ext.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_format.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_getdate.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_iocache.c:52:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_iocache2.c:22:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_keycache.c:111:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_keycaches.c:27:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_loadpath.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_pack.c:19:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_path.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_qsort.c:25:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_qsort.c:106:44: warning: performing pointer subtraction with a null pointer has undefined behavior [-Wnull-pointer-subtraction]
+  106 |   ptr_cmp= size == sizeof(char*) && !((low - (char*) 0)& (sizeof(char*)-1));
+      |                                            ^ ~~~~~~~~~
+2 warnings generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_qsort2.c:20:
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_qsort.c:25:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_qsort2.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_qsort.c:106:44: warning: performing pointer subtraction with a null pointer has undefined behavior [-Wnull-pointer-subtraction]
+  106 |   ptr_cmp= size == sizeof(char*) && !((low - (char*) 0)& (sizeof(char*)-1));
+      |                                            ^ ~~~~~~~~~
+2 warnings generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_radix.c:24:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_same.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_arr_appstr.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_tempfile.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/mf_unixpath.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_access.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_alloc.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_bitmap.c:39:
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/my_bitmap.h:22:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_chsize.c:19:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_compress.c:22:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_copy.c:19:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_error.c:19:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_error.c:23:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_handler_errors.h:69:3: warning: suspicious concatenation of string literals in an array initialization; did you mean to separate the elements with a comma? [-Wstring-concatenation]
+   68 |   "Upholding foreign key constraints would lead to a duplicate key error in "
+      |                                                                              
+      |                                                                              ,
+   69 |   "some other table",
+      |   ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_handler_errors.h:68:3: note: place parentheses around the string literal to silence warning
+   68 |   "Upholding foreign key constraints would lead to a duplicate key error in "
+      |   ^
+2 warnings generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_file.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_gethwaddr.c:21:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_getwd.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_init.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_lib.c:21:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_malloc.c:19:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_once.c:21:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_pread.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_redel.c:19:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_rename.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_symlink.c:19:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_symlink2.c:26:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_thr_init.c:23:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/stacktrace.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/stacktrace.c:144:21: warning: 'sbrk' is deprecated [-Wdeprecated-declarations]
+  144 |   heap_end= (char*) sbrk(0);
+      |                     ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/unistd.h:582:1: note: 'sbrk' has been explicitly marked deprecated here
+  582 | __deprecated __WATCHOS_PROHIBITED __TVOS_PROHIBITED
+      | ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/sys/cdefs.h:214:40: note: expanded from macro '__deprecated'
+  214 | #define __deprecated    __attribute__((__deprecated__))
+      |                                        ^
+2 warnings generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/string.c:24:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/thr_lock.c:74:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/tree.c:60:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/typelib.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/base64.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_memmem.c:18:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/lf_dynarray.c:39:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/lf_hash.c:25:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/my_syslog.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libmysys.a(thr_cond.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libmysys.a(thr_mutex.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libmysys.a(thr_cond.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libmysys.a(thr_mutex.c.o) has no symbols
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/dbug/dbug.c:84:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/vio/vio.c:23:
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/vio/vio_priv.h:25:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/vio/viosocket.c:26:
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/vio/vio_priv.h:25:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/vio/viossl.c:23:
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/vio/vio_priv.h:25:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/vio/viosslfactories.c:16:
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/vio/vio_priv.h:25:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:10:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:114:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  114 | my_regcomp(preg, pattern, cflags, charset)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:236:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  236 | p_ere(p, stop)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:290:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  290 | p_ere_exp(p)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:429:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  429 | p_str(p)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:450:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  450 | p_bre(p, end1, end2)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:483:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  483 | p_simp_re(p, starordinary)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:601:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  601 | p_count(p)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:624:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  624 | p_bracket(p)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:698:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  698 | p_b_term(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:763:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  763 | p_b_cclass(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:812:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  812 | p_b_eclass(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:827:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  827 | p_b_symbol(p)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:847:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  847 | p_b_coll_elem(p, endc)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:879:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  879 | othercase(charset,ch)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:916:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  916 | bothcases(p, ch)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:941:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  941 | ordinary(p, ch)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:964:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  964 | nonnewline(p)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:988:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  988 | repeat(p, start, from, to)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1060:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1060 | seterr(p, e)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1076:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1076 | allocset(p)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1131:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1131 | freeset(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1156:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1156 | freezeset(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1190:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1190 | firstch(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1209:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1209 | nch(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1260:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1260 | mcinvert(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1275:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1275 | mccase(p, cs)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1287:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1287 | isinsets(g, c)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1307:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1307 | samesets(g, c1, c2)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1329:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1329 | categorize(p, g)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1357:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1357 | dupl(p, start, finish)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1385:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1385 | doemit(p, op, opnd)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1411:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1411 | doinsert(p, op, opnd, pos)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1454:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1454 | dofwd(p, pos, value)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1472:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1472 | enlarge(p, size)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1495:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1495 | stripsnug(p, g)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1518:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1518 | findmust(p, g)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regcomp.c:1599:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+ 1599 | pluscount(p, g)
+      | ^
+38 warnings generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regerror.c:2:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regerror.c:103:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  103 | regatoi(preg, localbuf)
+      | ^
+2 warnings generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regexec.c:9:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regexec.c:46:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:66:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   66 | matcher(charset,g, str, nmatch, pmatch, eflags)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:9:17: note: expanded from macro 'matcher'
+    9 | #define matcher smatcher
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:239:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  239 | dissect(charset, m, start, stop, startst, stopst)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:12:17: note: expanded from macro 'dissect'
+   12 | #define dissect sdissect
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:425:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  425 | backref(charset,m, start, stop, startst, stopst, lev)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:13:17: note: expanded from macro 'backref'
+   13 | #define backref sbackref
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:631:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  631 | fast(charset, m, start, stop, startst, stopst)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:10:14: note: expanded from macro 'fast'
+   10 | #define fast    sfast
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:723:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  723 | slow(charset, m, start, stop, startst, stopst)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:11:14: note: expanded from macro 'slow'
+   11 | #define slow    sslow
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:820:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  820 | step(g, start, stop, bef, ch, aft)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:14:14: note: expanded from macro 'step'
+   14 | #define step    sstep
+      |                 ^
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regexec.c:95:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:66:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   66 | matcher(charset,g, str, nmatch, pmatch, eflags)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:20:17: note: expanded from macro 'matcher'
+   20 | #define matcher lmatcher
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:239:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  239 | dissect(charset, m, start, stop, startst, stopst)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:23:17: note: expanded from macro 'dissect'
+   23 | #define dissect ldissect
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:425:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  425 | backref(charset,m, start, stop, startst, stopst, lev)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:24:17: note: expanded from macro 'backref'
+   24 | #define backref lbackref
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:631:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  631 | fast(charset, m, start, stop, startst, stopst)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:21:14: note: expanded from macro 'fast'
+   21 | #define fast    lfast
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:723:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  723 | slow(charset, m, start, stop, startst, stopst)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:22:14: note: expanded from macro 'slow'
+   22 | #define slow    lslow
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:820:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  820 | step(g, start, stop, bef, ch, aft)
+      | ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/engine.c:25:14: note: expanded from macro 'step'
+   25 | #define step    lstep
+      |                 ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regexec.c:141:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+  141 | my_regexec(preg, str, nmatch, pmatch, eflags)
+      | ^
+14 warnings generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/regfree.c:15:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C2x [-Wdeprecated-non-prototype]
+   15 | my_regfree(preg)
+      | ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/regex/reginit.c:5:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/extra/comp_err.c:30:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+ld: warning: ignoring duplicate libraries: '../dbug/libdbug.a', '../mysys/libmysys.a'
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/libmysql/get_password.c:26:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/libmysql/libmysql.c:20:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/sql-common/client.c:62:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/sql-common/my_time.c:17:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/sql-common/client_plugin.c:33:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/sql/auth/password.c:65:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libmysqlclient.a(mysqlclient_depends.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libmysqlclient.a(mysqlclient_depends.c.o) has no symbols
+warning: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: archive library: libmysqlclient.a the table of contents is empty (no object file members in the library define global symbols)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning duplicate member name 'get_password.c.o' from '/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/libmysql/libclientlib.a(get_password.c.o)' and '/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/extra/yassl/libyassl.a(get_password.c.o)'
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/strings/libstrings.a(longlong2str.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/libmysys.a(thr_cond.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/mysys/libmysys.a(thr_mutex.c.o) has no symbols
+ld: warning: ignoring duplicate libraries: '../dbug/libdbug.a', '../mysys/libmysys.a', '../strings/libstrings.a', '../zlib/libzlib.a'
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/extra/my_print_defaults.c:28:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+ld: warning: ignoring duplicate libraries: '../dbug/libdbug.a', '../mysys/libmysys.a'
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/extra/perror.c:23:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/extra/perror.c:36:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/extra/../mysys/my_handler_errors.h:69:3: warning: suspicious concatenation of string literals in an array initialization; did you mean to separate the elements with a comma? [-Wstring-concatenation]
+   68 |   "Upholding foreign key constraints would lead to a duplicate key error in "
+      |                                                                              
+      |                                                                              ,
+   69 |   "some other table",
+      |   ^
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/extra/../mysys/my_handler_errors.h:68:3: note: place parentheses around the string literal to silence warning
+   68 |   "Upholding foreign key constraints would lead to a duplicate key error in "
+      |   ^
+2 warnings generated.
+ld: warning: ignoring duplicate libraries: '../dbug/libdbug.a', '../mysys/libmysys.a'
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/extra/resolveip.c:23:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.
+ld: warning: ignoring duplicate libraries: '../dbug/libdbug.a', '../mysys/libmysys.a'
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/testclients/mysql_client_test.c:27:
+In file included from /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/testclients/mysql_client_fw.c:22:
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/include/m_string.h:25:9: warning: 'bzero' macro redefined [-Wmacro-redefined]
+   25 | #define bzero please_use_memset_rather_than_bzero
+      |         ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/usr/include/secure/_strings.h:52:9: note: previous definition is here
+   52 | #define bzero(dest, ...) \
+      |         ^
+1 warning generated.

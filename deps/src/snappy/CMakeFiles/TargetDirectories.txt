@@ -1,0 +1,7 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy/CMakeFiles/snappy.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy/CMakeFiles/edit_cache.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy/CMakeFiles/rebuild_cache.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy/CMakeFiles/list_install_components.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy/CMakeFiles/install.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy/CMakeFiles/install/local.dir
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy/CMakeFiles/install/strip.dir

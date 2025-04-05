@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/download-libvrf.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/verify-libvrf.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf-stamp/extract-libvrf.cmake
+source_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/libvrf
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src
+url(s)=https://raw.githubusercontent.com/FISCO-BCOS/LargeFiles/master/libs/libvrf-rust1.47_0303.tar.gz;https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/FISCO-BCOS/FISCO-BCOS/deps/libvrf-rust1.47-0303.tar.gz
+hash=SHA256=afcd18e52b57516f92f7a7901c0bdedcc488e43dd8401d0e06cf0963db15bd07
+      no_extract=
+

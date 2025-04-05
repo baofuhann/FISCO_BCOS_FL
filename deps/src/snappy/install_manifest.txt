@@ -1,0 +1,9 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libsnappy.a
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/snappy-c.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/snappy-sinksource.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/snappy.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/snappy-stubs-public.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/Snappy/SnappyTargets.cmake
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/Snappy/SnappyTargets-release.cmake
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/Snappy/SnappyConfig.cmake
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/Snappy/SnappyConfigVersion.cmake

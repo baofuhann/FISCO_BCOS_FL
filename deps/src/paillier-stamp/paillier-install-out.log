@@ -1,0 +1,11 @@
+[ 71%] Built target paillier
+[100%] Built target testAdd
+Install the project...
+-- Install configuration: ""
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libpaillier.a
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/bn.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/callpaillier.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/common.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/macro.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/paillier.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/paillier/typedef.h

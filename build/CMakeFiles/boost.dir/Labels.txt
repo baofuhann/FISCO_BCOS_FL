@@ -1,0 +1,13 @@
+# Target labels
+ boost
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/boost
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/boost.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/boost-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/boost-stamp/boost-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/boost-stamp/boost-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/boost-stamp/boost-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/boost-stamp/boost-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/boost-stamp/boost-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/boost-stamp/boost-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/boost-stamp/boost-update.rule

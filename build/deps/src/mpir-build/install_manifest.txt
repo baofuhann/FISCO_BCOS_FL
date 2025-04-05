@@ -1,0 +1,3 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/include/mpir.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/include/gmp.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a

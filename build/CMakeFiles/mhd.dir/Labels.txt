@@ -1,0 +1,13 @@
+# Target labels
+ mhd
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mhd
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mhd.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mhd-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mhd-stamp/mhd-update.rule

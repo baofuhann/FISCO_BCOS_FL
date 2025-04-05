@@ -1,0 +1,103 @@
+[  0%] Built target INFO_SRC
+[  0%] Built target INFO_BIN
+[  6%] Built target zlib
+[ 12%] Built target yassl
+[ 21%] Built target taocrypt
+[ 40%] Built target strings
+[ 41%] Built target gen_dtrace_header
+[ 78%] Built target mysys
+[ 79%] Built target dbug
+[ 81%] Built target vio
+[ 84%] Built target regex
+[ 89%] Built target mysys_ssl
+[ 90%] Built target comp_err
+[ 90%] Built target GenError
+[ 95%] Built target clientlib
+[ 96%] Built target mysqlclient
+[ 97%] Built target libmysql
+[ 97%] Built target libmysql_api_test
+[ 98%] Built target my_print_defaults
+[ 99%] Built target perror
+[ 99%] Built target resolveip
+[100%] Built target mysql_client_test
+Install the project...
+-- Install configuration: "RelWithDebInfo"
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/./COPYING
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/./README
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/docs/INFO_SRC
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/docs/INFO_BIN
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/./COPYING-debug
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/./README-debug
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql_com.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_command.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql_time.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_list.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_alloc.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/typelib.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/binary_log_types.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_dbug.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/m_string.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_sys.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_xml.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql_embed.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_thread.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_thread_local.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/decimal.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/errmsg.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_global.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_getopt.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/sslopt-longopts.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_dir.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/sslopt-vars.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/sslopt-case.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/sql_common.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/keycache.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/m_ctype.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_compiler.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql_com_server.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_byteorder.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/byte_order_generic.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/byte_order_generic_x86.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/little_endian.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/big_endian.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/thr_cond.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/thr_mutex.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/thr_rwlock.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql_version.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/my_config.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysqld_ername.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysqld_error.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/sql_state.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/mysql_lex_string.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/service_mysql_alloc.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/plugin_auth_common.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/plugin_trace.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/get_password.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/service_my_snprintf.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/client_plugin.h.pp
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/client_plugin.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_ps.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_transaction.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_file.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_idle.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/psi.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_stage.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_table.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/psi_memory.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/psi_base.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_socket.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_sp.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_statement.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_thread.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_memory.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/psi/mysql_mdl.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/mysql/client_authentication.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libmysqlclient.a
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libmysqlclient.18.dylib
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libmysqlclient.dylib
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/bin/my_print_defaults
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/bin/perror
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/bin/mysql_config

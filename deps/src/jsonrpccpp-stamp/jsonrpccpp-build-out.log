@@ -1,0 +1,3 @@
+[ 31%] Built target jsonrpccommonStatic
+[ 57%] Built target jsonrpcclientStatic
+[100%] Built target jsonrpcserverStatic

@@ -1,0 +1,13 @@
+# Target labels
+ rocksdb
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/rocksdb
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/rocksdb.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/rocksdb-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb-stamp/rocksdb-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb-stamp/rocksdb-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb-stamp/rocksdb-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb-stamp/rocksdb-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb-stamp/rocksdb-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb-stamp/rocksdb-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb-stamp/rocksdb-update.rule

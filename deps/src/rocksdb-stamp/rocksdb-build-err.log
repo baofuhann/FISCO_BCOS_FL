@@ -1,0 +1,17 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb/cache/lru_cache.cc:94:12: warning: variable 'count' set but not used [-Wunused-but-set-variable]
+   94 |   uint32_t count = 0;
+      |            ^
+1 warning generated.
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/rocksdb/db/version_edit_handler.cc:29:10: warning: variable 'recovered_edits' set but not used [-Wunused-but-set-variable]
+   29 |   size_t recovered_edits = 0;
+      |          ^
+1 warning generated.
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: librocksdb.a(db_impl_debug.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: librocksdb.a(block_cache_trace_analyzer.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: librocksdb.a(io_tracer_parser_tool.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: librocksdb.a(trace_analyzer_tool.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: librocksdb.a(db_impl_debug.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: librocksdb.a(block_cache_trace_analyzer.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: librocksdb.a(io_tracer_parser_tool.cc.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: librocksdb.a(trace_analyzer_tool.cc.o) has no symbols

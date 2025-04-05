@@ -1,0 +1,10 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(get_sx.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(get_ux.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(iset_sx.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(iset_ux.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(set_sx.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(set_ux.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(obprintf.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(obprntffuns.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a(obvprintf.c.o) has no symbols

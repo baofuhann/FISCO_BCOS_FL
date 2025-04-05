@@ -1,0 +1,12 @@
+[100%] Built target snappy
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libsnappy.a
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/snappy-c.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/snappy-sinksource.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/snappy.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/snappy-stubs-public.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/Snappy/SnappyTargets.cmake
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/Snappy/SnappyTargets-release.cmake
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/Snappy/SnappyConfig.cmake
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/Snappy/SnappyConfigVersion.cmake

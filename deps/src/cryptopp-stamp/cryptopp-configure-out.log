@@ -1,0 +1,10 @@
+-- Compiler: 
+-- Flags: -march=x86-64 -mtune=generic -fvisibility=hidden -fvisibility-inlines-hidden
+-- Build type: Release
+-- The following OPTIONAL packages have been found:
+
+ * Threads
+
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/cryptopp-build

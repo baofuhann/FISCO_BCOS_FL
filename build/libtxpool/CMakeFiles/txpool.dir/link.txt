@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libtxpool.a CMakeFiles/txpool.dir/CommonTransactionNonceCheck.cpp.o CMakeFiles/txpool.dir/TransactionNonceCheck.cpp.o CMakeFiles/txpool.dir/TxPool.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libtxpool.a

@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmone-stamp/download-evmone.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmone-stamp/verify-evmone.cmake;COMMAND;/usr/local/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmone-stamp/extract-evmone.cmake
+source_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmone
+work_dir=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src
+url(s)=https://github.com/FISCO-BCOS/evmone/archive/b004a8f2057bb2b91fabaa3b13449c62241bcaa8.tar.gz;https://osp-1257653870.cos.ap-guangzhou.myqcloud.com/FISCO-BCOS/FISCO-BCOS/deps/evmone-b004a8f2.tar.gz
+hash=SHA256=17fa57d444420f128af315b88e35b55747bb19b6bc1ef63ea01360d3e381a261
+      no_extract=
+

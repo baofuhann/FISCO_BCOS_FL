@@ -1,0 +1,389 @@
+-- Running cmake version 3.31.6
+-- The C compiler identification is AppleClang 16.0.0.16000026
+-- The CXX compiler identification is AppleClang 16.0.0.16000026
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of void *
+-- Check size of void * - done
+-- SIZEOF_VOIDP 8
+-- LibMySQL 6.1.11
+-- Built from MySQL 5.7.16 sources
+-- Packaging as: mysql-connector-c-6.1.11-osx10.20-x86_64
+-- Installing to: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps
+-- Performing Test HAVE_LLVM_LIBCPP
+-- Performing Test HAVE_LLVM_LIBCPP - Success
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Looking for floor
+-- Looking for floor - found
+-- Looking for __infinity
+-- Looking for __infinity - not found
+-- Looking for __infinity in m
+-- Looking for __infinity in m - not found
+-- Looking for gethostbyname_r
+-- Looking for gethostbyname_r - not found
+-- Looking for gethostbyname_r in nsl_r
+-- Looking for gethostbyname_r in nsl_r - not found
+-- Looking for gethostbyname_r in nsl
+-- Looking for gethostbyname_r in nsl - not found
+-- Looking for bind
+-- Looking for bind - found
+-- Looking for crypt
+-- Looking for crypt - found
+-- Looking for setsockopt
+-- Looking for setsockopt - found
+-- Looking for dlopen
+-- Looking for dlopen - found
+-- Looking for sched_yield
+-- Looking for sched_yield - found
+-- Looking for clock_gettime
+-- Looking for clock_gettime - found
+-- Looking for timer_create
+-- Looking for timer_create - not found
+-- Looking for timer_create in rt
+-- Looking for timer_create in rt - not found
+-- Looking for atomic_thread_fence
+-- Looking for atomic_thread_fence - found
+-- Looking for include file alloca.h
+-- Looking for include file alloca.h - found
+-- Looking for include file arpa/inet.h
+-- Looking for include file arpa/inet.h - found
+-- Looking for include file dirent.h
+-- Looking for include file dirent.h - found
+-- Looking for include file dlfcn.h
+-- Looking for include file dlfcn.h - found
+-- Looking for include file execinfo.h
+-- Looking for include file execinfo.h - found
+-- Looking for include file fpu_control.h
+-- Looking for include file fpu_control.h - not found
+-- Looking for include file grp.h
+-- Looking for include file grp.h - found
+-- Looking for include file ieeefp.h
+-- Looking for include file ieeefp.h - not found
+-- Looking for include file langinfo.h
+-- Looking for include file langinfo.h - found
+-- Looking for include file malloc.h
+-- Looking for include file malloc.h - not found
+-- Looking for include file netinet/in.h
+-- Looking for include file netinet/in.h - found
+-- Looking for include file poll.h
+-- Looking for include file poll.h - found
+-- Looking for include file pwd.h
+-- Looking for include file pwd.h - found
+-- Looking for include file strings.h
+-- Looking for include file strings.h - found
+-- Looking for include file sys/cdefs.h
+-- Looking for include file sys/cdefs.h - found
+-- Looking for include file sys/ioctl.h
+-- Looking for include file sys/ioctl.h - found
+-- Looking for include file sys/mman.h
+-- Looking for include file sys/mman.h - found
+-- Looking for include file sys/resource.h
+-- Looking for include file sys/resource.h - found
+-- Looking for include file sys/select.h
+-- Looking for include file sys/select.h - found
+-- Looking for include file sys/socket.h
+-- Looking for include file sys/socket.h - found
+-- Looking for include files curses.h, term.h
+-- Looking for include files curses.h, term.h - found
+-- Looking for include file termios.h
+-- Looking for include file termios.h - found
+-- Looking for include file termio.h
+-- Looking for include file termio.h - not found
+-- Looking for include file unistd.h
+-- Looking for include file unistd.h - found
+-- Looking for include file sys/wait.h
+-- Looking for include file sys/wait.h - found
+-- Looking for include file sys/param.h
+-- Looking for include file sys/param.h - found
+-- Looking for include file fnmatch.h
+-- Looking for include file fnmatch.h - found
+-- Looking for include file sys/un.h
+-- Looking for include file sys/un.h - found
+-- Looking for include file vis.h
+-- Looking for include file vis.h - found
+-- Looking for include file sasl/sasl.h
+-- Looking for include file sasl/sasl.h - found
+-- Looking for include file sys/devpoll.h
+-- Looking for include file sys/devpoll.h - not found
+-- Looking for include file sys/epoll.h
+-- Looking for include file sys/epoll.h - not found
+-- Looking for TAILQ_FOREACH
+-- Looking for TAILQ_FOREACH - found
+-- Looking for _aligned_malloc
+-- Looking for _aligned_malloc - not found
+-- Looking for backtrace
+-- Looking for backtrace - found
+-- Looking for printstack
+-- Looking for printstack - not found
+-- Looking for index
+-- Looking for index - found
+-- Looking for clock_gettime
+-- Looking for clock_gettime - found
+-- Looking for cuserid
+-- Looking for cuserid - not found
+-- Looking for directio
+-- Looking for directio - not found
+-- Looking for ftruncate
+-- Looking for ftruncate - found
+-- Looking for compress
+-- Looking for compress - not found
+-- Looking for crypt
+-- Looking for crypt - found
+-- Looking for dlopen
+-- Looking for dlopen - found
+-- Looking for fchmod
+-- Looking for fchmod - found
+-- Looking for fcntl
+-- Looking for fcntl - found
+-- Looking for fdatasync
+-- Looking for fdatasync - found
+-- Looking for fdatasync
+-- Looking for fdatasync - not found
+-- Looking for fedisableexcept
+-- Looking for fedisableexcept - not found
+-- Looking for fseeko
+-- Looking for fseeko - found
+-- Looking for fsync
+-- Looking for fsync - found
+-- Looking for gethostbyaddr_r
+-- Looking for gethostbyaddr_r - not found
+-- Looking for gethrtime
+-- Looking for gethrtime - not found
+-- Looking for getnameinfo
+-- Looking for getnameinfo - found
+-- Looking for getpass
+-- Looking for getpass - found
+-- Looking for getpassphrase
+-- Looking for getpassphrase - not found
+-- Looking for getpwnam
+-- Looking for getpwnam - found
+-- Looking for getpwuid
+-- Looking for getpwuid - found
+-- Looking for getrlimit
+-- Looking for getrlimit - found
+-- Looking for getrusage
+-- Looking for getrusage - found
+-- Looking for initgroups
+-- Looking for initgroups - found
+-- Looking for issetugid
+-- Looking for issetugid - found
+-- Looking for getuid
+-- Looking for getuid - found
+-- Looking for geteuid
+-- Looking for geteuid - found
+-- Looking for getgid
+-- Looking for getgid - found
+-- Looking for getegid
+-- Looking for getegid - found
+-- Looking for lstat
+-- Looking for lstat - found
+-- Looking for madvise
+-- Looking for madvise - found
+-- Looking for malloc_info
+-- Looking for malloc_info - not found
+-- Looking for memrchr
+-- Looking for memrchr - not found
+-- Looking for mlock
+-- Looking for mlock - found
+-- Looking for mlockall
+-- Looking for mlockall - found
+-- Looking for mmap64
+-- Looking for mmap64 - not found
+-- Looking for poll
+-- Looking for poll - found
+-- Looking for posix_fallocate
+-- Looking for posix_fallocate - not found
+-- Looking for posix_memalign
+-- Looking for posix_memalign - found
+-- Looking for pread
+-- Looking for pread - found
+-- Looking for pthread_condattr_setclock
+-- Looking for pthread_condattr_setclock - not found
+-- Looking for pthread_sigmask
+-- Looking for pthread_sigmask - found
+-- Looking for readdir_r
+-- Looking for readdir_r - found
+-- Looking for readlink
+-- Looking for readlink - found
+-- Looking for realpath
+-- Looking for realpath - found
+-- Looking for setfd
+-- Looking for setfd - not found
+-- Looking for sigaction
+-- Looking for sigaction - found
+-- Looking for sleep
+-- Looking for sleep - found
+-- Looking for stpcpy
+-- Looking for stpcpy - found
+-- Looking for stpncpy
+-- Looking for stpncpy - found
+-- Looking for strlcpy
+-- Looking for strlcpy - found
+-- Looking for strndup
+-- Looking for strndup - found
+-- Looking for strnlen
+-- Looking for strnlen - found
+-- Looking for strlcat
+-- Looking for strlcat - found
+-- Looking for strsignal
+-- Looking for strsignal - found
+-- Looking for fgetln
+-- Looking for fgetln - found
+-- Looking for strsep
+-- Looking for strsep - found
+-- Looking for tell
+-- Looking for tell - not found
+-- Looking for vasprintf
+-- Looking for vasprintf - found
+-- Looking for memalign
+-- Looking for memalign - not found
+-- Looking for nl_langinfo
+-- Looking for nl_langinfo - found
+-- Looking for ntohll
+-- Looking for ntohll - not found
+-- Looking for clock_gettime
+-- Looking for clock_gettime - found
+-- Looking for epoll_create
+-- Looking for epoll_create - not found
+-- Looking for inet_ntop
+-- Looking for inet_ntop - found
+-- Looking for kqueue
+-- Looking for kqueue - found
+-- Looking for timeradd
+-- Looking for timeradd - found
+-- Looking for timerclear
+-- Looking for timerclear - found
+-- Looking for timercmp
+-- Looking for timercmp - found
+-- Looking for timerisset
+-- Looking for timerisset - found
+-- Looking for include file sys/time.h
+-- Looking for include file sys/time.h - found
+-- Looking for include file sys/times.h
+-- Looking for include file sys/times.h - found
+-- Looking for times
+-- Looking for times - found
+-- Looking for gettimeofday
+-- Looking for gettimeofday - found
+-- Looking for lrand48
+-- Looking for lrand48 - found
+-- Looking for TIOCGWINSZ
+-- Looking for TIOCGWINSZ - found
+-- Looking for FIONREAD
+-- Looking for FIONREAD - found
+-- Looking for FIONREAD
+-- Looking for FIONREAD - found
+-- Looking for SIGEV_THREAD_ID
+-- Looking for SIGEV_THREAD_ID - not found
+-- Looking for SIGEV_PORT
+-- Looking for SIGEV_PORT - not found
+-- Looking for log2
+-- Looking for log2 - found
+-- Looking for isinf
+-- Looking for isinf - found
+-- Performing Test HAVE_CXX_ISINF
+-- Performing Test HAVE_CXX_ISINF - Success
+-- Looking for timer_create
+-- Looking for timer_create - not found
+-- Looking for timer_settime
+-- Looking for timer_settime - not found
+-- Looking for kqueue
+-- Looking for kqueue - found
+-- Looking for EVFILT_TIMER
+-- Looking for EVFILT_TIMER - found
+-- Check size of char *
+-- Check size of char * - done
+-- Check size of long
+-- Check size of long - done
+-- Check size of short
+-- Check size of short - done
+-- Check size of int
+-- Check size of int - done
+-- Check size of long long
+-- Check size of long long - done
+-- Check size of off_t
+-- Check size of off_t - done
+-- Check size of time_t
+-- Check size of time_t - done
+-- Check size of struct timespec
+-- Check size of struct timespec - done
+-- Check size of uint
+-- Check size of uint - done
+-- Check size of ulong
+-- Check size of ulong - failed
+-- Check size of u_int32_t
+-- Check size of u_int32_t - done
+-- Performing Test HAVE_VISIBILITY_HIDDEN
+-- Performing Test HAVE_VISIBILITY_HIDDEN - Success
+-- Checking stack direction : 1
+-- Looking for include files time.h, sys/time.h
+-- Looking for include files time.h, sys/time.h - found
+-- Looking for O_NONBLOCK
+-- Looking for O_NONBLOCK - found
+-- Performing Test HAVE_PAUSE_INSTRUCTION
+-- Performing Test HAVE_PAUSE_INSTRUCTION - Success
+-- Performing Test HAVE_BSS_START
+-- Performing Test HAVE_BSS_START - Failed
+-- Performing Test HAVE_BUILTIN_UNREACHABLE
+-- Performing Test HAVE_BUILTIN_UNREACHABLE - Success
+-- Performing Test HAVE_BUILTIN_EXPECT
+-- Performing Test HAVE_BUILTIN_EXPECT - Success
+-- Performing Test HAVE_BUILTIN_STPCPY
+-- Performing Test HAVE_BUILTIN_STPCPY - Success
+-- Performing Test HAVE_GCC_ATOMIC_BUILTINS
+-- Performing Test HAVE_GCC_ATOMIC_BUILTINS - Success
+-- Performing Test HAVE_GCC_SYNC_BUILTINS
+-- Performing Test HAVE_GCC_SYNC_BUILTINS - Success
+-- Looking for netinet/in6.h
+-- Looking for netinet/in6.h - not found
+-- Check size of struct sockaddr_in6
+-- Check size of struct sockaddr_in6 - done
+-- Check size of struct in6_addr
+-- Check size of struct in6_addr - done
+-- Performing Test HAVE_SOCKADDR_STORAGE_SS_FAMILY
+-- Performing Test HAVE_SOCKADDR_STORAGE_SS_FAMILY - Success
+-- Performing Test HAVE_SOCKADDR_IN_SIN_LEN
+-- Performing Test HAVE_SOCKADDR_IN_SIN_LEN - Success
+-- Performing Test HAVE_SOCKADDR_IN6_SIN6_LEN
+-- Performing Test HAVE_SOCKADDR_IN6_SIN6_LEN - Success
+-- Performing Test HAVE_IMPLICIT_DEPENDENT_NAME_TYPING
+-- Performing Test HAVE_IMPLICIT_DEPENDENT_NAME_TYPING - Failed
+-- Looking for chown
+-- Looking for chown - found
+-- Looking for include file numaif.h
+-- Looking for include file numaif.h - not found
+-- Check size of socklen_t
+-- Check size of socklen_t - failed
+-- Performing Test HAVE_NO_UNUSED_CONST_VAR
+-- Performing Test HAVE_NO_UNUSED_CONST_VAR - Success
+-- Performing Test HAVE_WVLA
+-- Performing Test HAVE_WVLA - Success
+-- Performing Test UNUSED_BUT_SET
+-- Performing Test UNUSED_BUT_SET - Success
+-- Performing Test HAVE_NO_DEPREC_CONST
+-- Performing Test HAVE_NO_DEPREC_CONST - Success
+-- CMAKE_BUILD_TYPE: RelWithDebInfo
+-- COMPILE_DEFINITIONS: HAVE_CONFIG_H
+-- CMAKE_C_FLAGS:  -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -Wno-unused-parameter
+-- CMAKE_CXX_FLAGS:  -Wall -Wextra -Wformat-security -Wvla -Woverloaded-virtual -Wno-unused-parameter -Wno-null-conversion -Wno-unused-private-field
+-- CMAKE_C_FLAGS_RELWITHDEBINFO: -O3 -g -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF
+-- CMAKE_CXX_FLAGS_RELWITHDEBINFO: -O3 -g -fno-omit-frame-pointer -fno-strict-aliasing -DDBUG_OFF
+-- Configuring done (70.2s)
+-- Generating done (0.4s)
+-- Build files have been written to: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient

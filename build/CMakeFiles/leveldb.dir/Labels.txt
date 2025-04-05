@@ -1,0 +1,13 @@
+# Target labels
+ leveldb
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/leveldb
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/leveldb.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/leveldb-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/leveldb-stamp/leveldb-update.rule

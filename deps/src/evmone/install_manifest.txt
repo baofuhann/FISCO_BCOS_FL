@@ -1,0 +1,3 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmone/evmone.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libevmone.a
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libkeccak.a

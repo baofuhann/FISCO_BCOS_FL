@@ -1,0 +1,13 @@
+[ 50%] Built target gen_context
+[ 50%] Built target ecmult_static_context
+[ 75%] Building C object CMakeFiles/secp256k1.dir/src/secp256k1.c.o
+[100%] Linking C static library libsecp256k1.a
+[100%] Built target secp256k1
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libsecp256k1.a
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/secp256k1_ecdh.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/secp256k1_recovery.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/secp256k1_sha256.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/secp256k1.h

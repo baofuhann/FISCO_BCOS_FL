@@ -1,0 +1,13 @@
+# Target labels
+ snappy
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/snappy
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/snappy.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/snappy-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy-stamp/snappy-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy-stamp/snappy-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy-stamp/snappy-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy-stamp/snappy-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy-stamp/snappy-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy-stamp/snappy-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy-stamp/snappy-update.rule

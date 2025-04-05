@@ -1,0 +1,15 @@
+CMake Deprecation Warning at CMakeLists.txt:15 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+CMake Warning at CMakeLists.txt:116 (message):
+  You are building oneTBB as a static library.  This is highly discouraged
+  and such configuration is not supported.  Consider building a dynamic
+  library to avoid unforeseen issues.
+
+

@@ -1,0 +1,6 @@
+[100%] Built target mpir
+Install the project...
+-- Install configuration: "Release"
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/include/mpir.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/include/gmp.h
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/lib/libmpir.a

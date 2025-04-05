@@ -1,0 +1,12 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libjsoncpp.a
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/allocator.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/assertions.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/autolink.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/config.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/features.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/forwards.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/json.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/reader.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/value.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/version.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/writer.h

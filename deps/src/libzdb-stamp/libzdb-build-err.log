@@ -1,0 +1,12 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+src/db/mysql/MysqlResultSet.c:111:44: warning: incompatible pointer types assigning to 'my_bool *' (aka 'char *') from 'bool *' [-Wincompatible-pointer-types]
+  111 |                         R->bind[i].is_null = &R->columns[i].is_null;
+      |                                            ^ ~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+src/db/mysql/MysqlPreparedStatement.c:112:36: warning: incompatible pointer types assigning to 'my_bool *' (aka 'char *') from 'bool *' [-Wincompatible-pointer-types]
+  112 |                 P->bind[i].is_null = &yes;
+      |                                    ^ ~~~~
+src/db/mysql/MysqlPreparedStatement.c:175:36: warning: incompatible pointer types assigning to 'my_bool *' (aka 'char *') from 'bool *' [-Wincompatible-pointer-types]
+  175 |                 P->bind[i].is_null = &yes;
+      |                                    ^ ~~~~
+2 warnings generated.

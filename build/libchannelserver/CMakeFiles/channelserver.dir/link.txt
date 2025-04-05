@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libchannelserver.a CMakeFiles/channelserver.dir/ChannelRPCServer.cpp.o CMakeFiles/channelserver.dir/ChannelServer.cpp.o CMakeFiles/channelserver.dir/ChannelSession.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libchannelserver.a

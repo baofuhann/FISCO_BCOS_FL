@@ -1,0 +1,14 @@
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/utils.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/mocked_host.hpp
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/loader.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/instructions.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/evmc.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/evmc.hpp
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/evmc/helpers.h
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/evmcTargets.cmake
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/evmcTargets-release.cmake
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/evmcConfig.cmake
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/evmcConfigVersion.cmake
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/cmake/evmc/EVMC.cmake
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libevmc-instructions.a
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libevmc-loader.a

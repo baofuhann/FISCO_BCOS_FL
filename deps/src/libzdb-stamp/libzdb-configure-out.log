@@ -1,0 +1,161 @@
+checking for a BSD-compatible install... /usr/local/bin/ginstall -c
+checking whether build environment is sane... yes
+checking for a thread-safe mkdir -p... /usr/local/bin/gmkdir -p
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking for gcc... gcc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking whether gcc understands -c and -o together... yes
+checking whether make supports the include directive... yes (GNU style)
+checking dependency style of gcc... none
+checking for g++... g++
+checking whether we are using the GNU C++ compiler... yes
+checking whether g++ accepts -g... yes
+checking dependency style of g++... none
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking whether gcc needs -traditional... no
+checking for re2c... no
+checking for flex... flex
+checking lex output file root... lex.yy
+checking lex library... -ll
+checking whether yytext is a pointer... yes
+checking build system type... x86_64-apple-darwin24.2.0
+checking host system type... x86_64-apple-darwin24.2.0
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by gcc... /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+checking if the linker (/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld) is GNU ld... no
+checking for BSD- or MS-compatible name lister (nm)... /usr/bin/nm -B
+checking the name lister (/usr/bin/nm -B) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... 786432
+checking how to convert x86_64-apple-darwin24.2.0 file names to x86_64-apple-darwin24.2.0 format... func_convert_file_noop
+checking how to convert x86_64-apple-darwin24.2.0 file names to toolchain format... func_convert_file_noop
+checking for /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld option to reload object files... -r
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for ar... ar
+checking for archiver @FILE support... no
+checking for strip... strip
+checking for ranlib... ranlib
+checking command to parse /usr/bin/nm -B output from gcc object... ok
+checking for sysroot... no
+checking for a working dd... /bin/dd
+checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+checking for mt... no
+checking if : is a manifest tool... no
+checking for dsymutil... dsymutil
+checking for nmedit... nmedit
+checking for lipo... lipo
+checking for otool... otool
+checking for otool64... no
+checking for -single_module linker flag... ld: warning: -single_module is obsolete
+no
+checking for -exported_symbols_list linker flag... yes
+checking for -force_load linker flag... yes
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if gcc supports -fno-rtti -fno-exceptions... yes
+checking for gcc option to produce PIC... -fno-common -DPIC
+checking if gcc PIC flag -fno-common -DPIC works... yes
+checking if gcc static flag -static works... no
+checking if gcc supports -c -o file.o... yes
+checking if gcc supports -c -o file.o... (cached) yes
+checking whether the gcc linker (/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... darwin24.2.0 dyld
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... no
+checking whether to build static libraries... yes
+checking how to run the C++ preprocessor... g++ -E
+checking for ld used by g++... /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld
+checking if the linker (/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld) is GNU ld... no
+checking whether the g++ linker (/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld) supports shared libraries... yes
+checking for g++ option to produce PIC... -fno-common -DPIC
+checking if g++ PIC flag -fno-common -DPIC works... yes
+checking if g++ static flag -static works... no
+checking if g++ supports -c -o file.o... yes
+checking if g++ supports -c -o file.o... (cached) yes
+checking whether the g++ linker (/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... darwin24.2.0 dyld
+checking how to hardcode library paths into programs... immediate
+checking setjmp is available... yes
+
+checking vsnprintf is c11 conformant... yes
+
+checking for timegm... yes
+checking for library containing pthread_create... none required
+checking for mysql... yes
+checking for /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/scripts/mysql_config... yes
+checking mysql.h usability... yes
+checking mysql.h presence... yes
+checking for mysql.h... yes
+checking for postgresql... no
+checking for SQLite3... no
+checking for oracle... checking if Oracle support is enabled... no
+checking for ANSI C header files... (cached) yes
+checking for struct tm.tm_gmtoff... yes
+checking for an ANSI C-conforming const... yes
+checking whether byte ordering is bigendian... no
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating test/Makefile
+config.status: creating zdb.pc
+config.status: creating src/xconfig.h
+config.status: executing libtool_patch commands
+config.status: executing depfiles commands
+config.status: executing libtool commands
++------------------------------------------------------------+
+| License:                                                   |
+| This is Open Source Software and use is subject to the GNU |
+| GENERAL PUBLIC LICENSE, available in this distribution in  |
+| the file COPYING.                                          |
+|                                                            |
+| By continuing this installation process, you are bound by  |
+| the terms of this license agreement. If you do not agree   |
+| with the terms of this license, you must abort the         |
+| installation process at this point.                        |
++------------------------------------------------------------+
+| Libzdb is configured as follows:                           |
+|                                                            |
+|   Optimized:                                    DISABLED   |
+|   Protected:                                    ENABLED    |
+|   Profiling:                                    DISABLED   |
+|   Zild:                                         DISABLED   |
+|   Sqlite3 unlock notification API:              DISABLED   |
+|   Openssl:                                      DISABLED   |
+|   Unit Tests Build:                             DISABLED   |
+|------------------------------------------------------------|
+|   SQLite3:                                      DISABLED   |
+|   MySQL:                                        ENABLED    |
+|   PostgreSQL:                                   DISABLED   |
+|   Oracle:                                       DISABLED   |
++------------------------------------------------------------+

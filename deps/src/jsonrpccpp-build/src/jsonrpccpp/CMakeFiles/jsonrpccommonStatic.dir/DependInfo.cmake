@@ -1,0 +1,27 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp/src/jsonrpccpp/common/errors.cpp" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/errors.cpp.o" "gcc" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/errors.cpp.o.d"
+  "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp/src/jsonrpccpp/common/exception.cpp" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/exception.cpp.o" "gcc" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/exception.cpp.o.d"
+  "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp/src/jsonrpccpp/common/procedure.cpp" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/procedure.cpp.o" "gcc" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/procedure.cpp.o.d"
+  "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp/src/jsonrpccpp/common/specificationparser.cpp" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/specificationparser.cpp.o" "gcc" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/specificationparser.cpp.o.d"
+  "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/jsonrpccpp/src/jsonrpccpp/common/specificationwriter.cpp" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/specificationwriter.cpp.o" "gcc" "src/jsonrpccpp/CMakeFiles/jsonrpccommonStatic.dir/common/specificationwriter.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

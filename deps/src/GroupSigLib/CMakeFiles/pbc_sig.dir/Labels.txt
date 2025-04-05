@@ -1,0 +1,13 @@
+# Target labels
+ pbc_sig
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/CMakeFiles/pbc_sig
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/CMakeFiles/pbc_sig.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/CMakeFiles/pbc_sig-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/GroupSigLib/deps/src/pbc_sig-stamp/pbc_sig-update.rule

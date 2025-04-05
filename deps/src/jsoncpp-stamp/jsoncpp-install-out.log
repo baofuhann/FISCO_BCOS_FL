@@ -1,0 +1,15 @@
+[100%] Built target jsoncpp_lib_static
+Install the project...
+-- Install configuration: "Release"
+-- Installing: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/lib/libjsoncpp.a
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/allocator.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/assertions.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/autolink.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/config.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/features.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/forwards.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/json.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/reader.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/value.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/version.h
+-- Up-to-date: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/include/json/writer.h

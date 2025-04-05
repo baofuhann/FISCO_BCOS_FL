@@ -1,0 +1,10 @@
+make[3]: warning: jobserver unavailable: using -j1.  Add `+' to parent make rule.
+daemon.c:4883:26: warning: result of comparison of constant 9223372036854775807 with expression of type 'unsigned int' is always false [-Wtautological-constant-out-of-range-compare]
+ 4883 |           if (TIME_T_MAX < uv) /* Compiler may warn on some platforms, ignore warning. */
+      |               ~~~~~~~~~~ ^ ~~
+daemon.c:4944:45: warning: result of comparison of constant 34415567301696924 with expression of type 'unsigned int' is always false [-Wtautological-constant-out-of-range-compare]
+ 4944 |           else if (daemon->worker_pool_size >= (SIZE_MAX / sizeof (struct MHD_Daemon))) /* Compiler may warn on some platforms, ignore warning. */
+      |                    ~~~~~~~~~~~~~~~~~~~~~~~~ ^  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2 warnings generated.
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmicrohttpd.a(libmicrohttpd_la-mhd_compat.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmicrohttpd.a(libmicrohttpd_la-mhd_compat.o) has no symbols

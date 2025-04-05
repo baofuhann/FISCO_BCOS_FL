@@ -1,0 +1,47 @@
+-- The C compiler identification is AppleClang 16.0.0.16000026
+-- The CXX compiler identification is AppleClang 16.0.0.16000026
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Looking for byteswap.h
+-- Looking for byteswap.h - not found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for sys/endian.h
+-- Looking for sys/endian.h - not found
+-- Looking for sys/mman.h
+-- Looking for sys/mman.h - found
+-- Looking for sys/resource.h
+-- Looking for sys/resource.h - found
+-- Looking for sys/time.h
+-- Looking for sys/time.h - found
+-- Looking for sys/uio.h
+-- Looking for sys/uio.h - found
+-- Looking for unistd.h
+-- Looking for unistd.h - found
+-- Looking for windows.h
+-- Looking for windows.h - not found
+-- Looking for zlibVersion in z
+-- Looking for zlibVersion in z - found
+-- Looking for lzo1x_1_15_compress in lzo2
+-- Looking for lzo1x_1_15_compress in lzo2 - not found
+-- Performing Test HAVE_BUILTIN_EXPECT
+-- Performing Test HAVE_BUILTIN_EXPECT - Success
+-- Performing Test HAVE_BUILTIN_CTZ
+-- Performing Test HAVE_BUILTIN_CTZ - Success
+-- Looking for mmap
+-- Looking for mmap - found
+-- Looking for sysconf
+-- Looking for sysconf - found
+-- Configuring done (8.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/snappy

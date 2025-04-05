@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/tbb"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/tbb.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/tbb-complete.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-build.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-configure.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-download.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-install.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-mkdir.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-patch.rule"
+		},
+		{
+			"file" : "/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/tbb-stamp/tbb-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"tbb"
+		],
+		"name" : "tbb"
+	}
+}

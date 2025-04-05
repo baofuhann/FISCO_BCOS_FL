@@ -1,0 +1,13 @@
+# Target labels
+ paillier
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/paillier
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/paillier.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/paillier-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/paillier-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/paillier-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/paillier-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/paillier-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/paillier-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/paillier-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/paillier-stamp/paillier-update.rule

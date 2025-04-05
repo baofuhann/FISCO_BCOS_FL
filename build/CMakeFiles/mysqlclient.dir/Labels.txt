@@ -1,0 +1,13 @@
+# Target labels
+ mysqlclient
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mysqlclient
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mysqlclient.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/mysqlclient-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient-stamp/mysqlclient-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient-stamp/mysqlclient-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient-stamp/mysqlclient-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient-stamp/mysqlclient-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient-stamp/mysqlclient-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient-stamp/mysqlclient-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient-stamp/mysqlclient-update.rule

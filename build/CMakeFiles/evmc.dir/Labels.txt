@@ -1,0 +1,13 @@
+# Target labels
+ evmc
+# Source files and their labels
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/evmc
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/evmc.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/build/CMakeFiles/evmc-complete.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/evmc-build.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/evmc-configure.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/evmc-download.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/evmc-install.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/evmc-mkdir.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/evmc-patch.rule
+/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/evmc-stamp/evmc-update.rule

@@ -1,0 +1,1 @@
+cmd='./configure;--with-mysql=/Users/hanallen/go/src/fisco/FISCO-BCOS/deps/src/mysqlclient/scripts/mysql_config;--without-sqlite;--without-postgresql;--enable-shared=false;--enable-protected'

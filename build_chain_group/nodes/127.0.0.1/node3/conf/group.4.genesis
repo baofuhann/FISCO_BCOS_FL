@@ -1,0 +1,35 @@
+[consensus]
+    ; consensus algorithm now support PBFT(consensus_type=pbft), Raft(consensus_type=raft)
+    ; rpbft(consensus_type=rpbft)
+    consensus_type=pbft
+    ; the max number of transactions of a block
+    max_trans_num=1000
+    ; in seconds, block consensus timeout, at least 3s
+    consensus_timeout=3
+    ; rpbft related configuration
+    ; the working sealers num of each consensus epoch
+    epoch_sealer_num=10
+    ; the number of generated blocks each epoch
+    epoch_block_num=1000
+    ; the node id of consensusers
+    node.0=1a32c9401951ffd839ae5bad75fa3d00f97cd9f8014a603e5773dc9f6fa63be914107b6aec52da1f53eae236306ca356e21fcaad723578816093c45f4f54344b
+    node.1=9acd792eaac67886c6eb57cdb0d031d9d0241d67bafd2859f52bf592e09e1a9b2a6a053dd3fbd43c63facb4a40ee3a3dde9a70659a1f252ba1d121d52bdf1e39
+    node.2=be82515051da6fd5a5a5b18f1c0f2d54f5a67651f446fddf9cf092524da5deea82d62098980c685a1ad018d276b16a4d01e7f2dfbfb4bf33c878ac942a719d19
+    node.3=f3849fcac27d9557b86683e86dc1be67e57a4696f69fa7a501165bd71fdb30f1e7bea20c0aa5139dbb4b85caa3851c8a5d5c88798e942d411fde6c86c703fa7a
+    node.4=a57346673c2a2bd8511def6bb034362d5457e350c2a89187e5c5e7181af8002f8a44b8b8324bf7804d3d899ea7246148abe46d6cab25d8a6b74b6808cb0b8ce3
+    node.5=dc90b52faec4a6e70b476860c164d54a2316a32c0391dfad78083f659d8811a6fc2f8d25382f2b45a6425c82b16e6ba147f83f2a5ec0b2c2c03331ee8d713174
+    node.6=f57eedd490f882897a75ddc908959bb6e77ef3893b2c0f9fef1c1b627032d8f64c9ada9ac36e722fc3df0b916e411a2697badc48dcedf7edb09d2dc33e8d10f4
+    node.7=9b781f5412c7bc5c9bbf3886d0e5df92e61886ebd9d97337eb38bd77e3569d7b22f0ca87469906dffea5f10ce64b80f4ea936d503552525fdb16ff8f24598eaf
+    node.8=c0d25e51cc899f28d61ff262fec7cc692be312a86f4a40edbef08bd2431dc53c9d9c4c76c9afca75c54258a40c60a3942aa675a1624d71382b7749a2c95ab879
+    node.9=35cf21cc6d799df4d64704b3605b1ea30638cb27a50e55ca3bce9b4545b43fcf2f438670f60db8cf680b11eef62e2e18590a83f786bd0aa2cc905aa5306c15e0
+    
+[state]
+    type=storage
+[tx]
+    ; transaction gas limit
+    gas_limit=300000000
+[group]
+    id=4
+    timestamp=1743834488000
+[evm]
+    enable_free_storage=false

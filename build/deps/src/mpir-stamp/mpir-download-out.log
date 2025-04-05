@@ -1,0 +1,13 @@
+-- verifying file...
+       file='/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-cmake-47910ac6.tar.gz'
+-- File already exists and hash match (skip download):
+  file='/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-cmake-47910ac6.tar.gz'
+  SHA256='f09fab14ce96624ddfb2803f515326b9fbb503010258fd8b74d290ea205b463c'
+-- extracting...
+     src='/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir-cmake-47910ac6.tar.gz'
+     dst='/Users/hanallen/go/src/fisco/FISCO-BCOS/build/deps/src/mpir'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
